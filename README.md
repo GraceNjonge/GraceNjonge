@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GraceNjonge
 - 👀 I’m interested in php app development
-- 🌱 I’m currently learning laravel and wordpresss frameworks
+- 🌱 I’m interested in laravel and wordpresss frameworks
 - 💞️ I’m looking to collaborate on laravel projects
 - 📫 How to reach me wanjirunjonge9@gmail.com
 
